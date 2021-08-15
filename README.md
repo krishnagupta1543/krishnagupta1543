@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Krishna Gupta
 - 🌱 I’m currently learning ...Data structures and algorithums using java.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Email:kg18960@gmail.com
 
 <!---
