@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Krishna Gupta
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...Data structures and algorithums using java.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...Email:kg18960@gmail.com
 
 <!---
 krishnagupta1543/krishnagupta1543 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
