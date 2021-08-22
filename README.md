@@ -1,6 +1,9 @@
 - 👋 Hi, I’m Krishna Gupta
 - 🌱 I’m currently learning ...Data structures and algorithums using java.
 - I am pursuing my Bachelors in Information Technology.
+- Programming Languages - Python.
+- GUI Framework - Tkinter.
+- Basic knowledge of Git and Github.
 - 📫 How to reach me ...Email:kg18960@gmail.com
 
 <!---
