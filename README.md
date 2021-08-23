@@ -4,8 +4,7 @@
 - Programming Languages - Python.
 - GUI Framework - Tkinter.
 - Basic knowledge of Git and Github.
-- 📫 How to reach me ...Email:kg18960@gmail.com
-
+- 📫 How to reach me ...Email: kg18960@gmail.com, Twitter: https://twitter.com/Krishna40746542
 <!---
 krishnagupta1543/krishnagupta1543 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
