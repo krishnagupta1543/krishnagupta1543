@@ -3,7 +3,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=krishnagupta1543&show_icons=true&theme=tokyonight" align='right' width="55%">
                               
-<img src= "https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="coder-boy" width="40%" height="40%" align="right">
+  <img src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fallhtaccess.info%2F25-gif-images-related-to-programming%2F&psig=AOvVaw1XgDnFhHNhnhAU44k9x2-7&ust=1631955300296000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCNvrzRhfMCFQAAAAAdAAAAABAP" alt="coder-boy" width="40%" height="40%" align="right">
 </br>
 <h3><b>💻About me</b></h3>
 <h4>
