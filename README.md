@@ -18,7 +18,7 @@
 </br>
 <h4>Programming Languages - Java, Python, HTML</br>Tools - Vs Code, IntellijIdea.</h4>
 <hr>
-<b> Connect With Me </b>
+<h3> Connect With Me </h3>
 </br>
 <!DOCTYPE html>
 <html>
