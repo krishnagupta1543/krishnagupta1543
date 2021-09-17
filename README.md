@@ -1,6 +1,6 @@
 
 Hola Guys 👋
-<hr>
+
 <img src="https://github-readme-stats.vercel.app/api?username=krishnagupta1543&show_icons=true&theme=tokyonight" align='right' width="55%">
                               
 <img src="./1_IRFhWNqusUWbTsB1hQXhrQ.gif" alt="coder-boy" width="40%" height="40%" align="right">
@@ -15,6 +15,7 @@ Hola Guys 👋
 <b> Skills</b></br>
 <p>Programming Languages - Java, Python, HTML</br>Tools - Vs Code, IntellijIdea
 </br>
+<hr>
 <b> Connect With Me </b>
 </br>
 <!DOCTYPE html>
@@ -44,6 +45,7 @@ Hola Guys 👋
       </a>
    </body>
 </html>
+<hr>
 <p><b> My Coding Profiles </b></p>
 <!DOCTYPE html>
 <html>
