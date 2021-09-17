@@ -39,7 +39,7 @@ Tech Enthusiast with creative thinking  skills to solve problems , Inquisitive i
 - Pursuing  Bachelors in Information Technology.</br>
 - Hobbies: Guitar playing, Book reading</br>
 -According to me the best way to learn anything is to learn first and then teach others.</br>
-</b>
+</br>
 <b> Connect With Me </b>
 </br>
 <!DOCTYPE html>
