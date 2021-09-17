@@ -20,7 +20,6 @@
   <p>
   <li>Java</li>
   <li>Python</li>
-  <li> HTML</br> </li>
   </ul>
   </p>
   <h4>🛠Tools</br></h4>
