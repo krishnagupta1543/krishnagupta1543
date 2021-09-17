@@ -5,7 +5,7 @@
                               
 <img src="./1_IRFhWNqusUWbTsB1hQXhrQ.gif" alt="coder-boy" width="40%" height="40%" align="right">
 </br>
-<b>💻About me</b>
+<h3><b>💻About me</b></h3>
 <br>
 - Tech Enthusiast with creative thinking  skills to solve problems.</br>
 - Inquisitive in nature and good communication skills.</br>
@@ -13,7 +13,7 @@
 - Hobbies: Guitar playing, Book reading</br>
 -According to me the best way to learn anything is to learn first and then teach others.</br>
 <hr>
-<b> Skills</b></br>
+<h3><b> Skills</b></br></hr>
 <p>Programming Languages - Java, Python, HTML</br>Tools - Vs Code, IntellijIdea
 </br>
 <hr>
