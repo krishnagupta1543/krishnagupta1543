@@ -50,7 +50,7 @@
       <br>
       <a href="https://leetcode.com/kg18960/">
          <img alt="LeetCode" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
-         width=50" height="50">
+         width=80" height="80">
       </a>
    </body>
 </html>
