@@ -28,6 +28,18 @@
       </a>
    </body>
 </html>
+<!DOCTYPE html>
+<html>
+   <head>
+   </head>
+   <body>
+      <br>
+      <a href="https://leetcode.com/kg18960/">
+         <img alt="LeetCode" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
+         width=80" height="80">
+      </a>
+   </body>
+</html>
 
 <!DOCTYPE html>
 <html>
@@ -53,15 +65,4 @@
 - Hobbies: Guitar playing, Book reading</br>
 -According to me the best way to learn anything is to learn first and then teach others.</br>
 Thank you
-<!DOCTYPE html>
-<html>
-   <head>
-   </head>
-   <body>
-      <br>
-      <a href="https://leetcode.com/kg18960/">
-         <img alt="LeetCode" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
-         width=80" height="80">
-      </a>
-   </body>
-</html>
+
