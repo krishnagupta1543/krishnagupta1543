@@ -49,7 +49,7 @@
    <body>
       <br>
       <a href="https://leetcode.com/kg18960/">
-         <img alt="leetcode" src="‪https://commons.wikimedia.org/wiki/File:LeetCode_Logo_1.png"
+         <img alt="leetcode" src="‪https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png"
          width=150" height="35">
       </a>
    </body>
