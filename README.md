@@ -14,6 +14,7 @@
 </p>
 
 <hr>
+<img src="programming.gif" alt="coder-boy" width="40%" height="40%" align="right">
 
 <h3>Skills</h3>
 <h4>Programming Languages</br></h4><ul>
