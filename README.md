@@ -13,7 +13,8 @@
 - Hobbies: Guitar playing, Book reading</br>
 -According to me the best way to learn anything is to learn first and then teach others.</br>
 <hr>
-<h3><b> Skills</b></br></hr>
+<h3><b> Skills</b></hr>
+</br>
 <p>Programming Languages - Java, Python, HTML</br>Tools - Vs Code, IntellijIdea
 </br>
 <hr>
