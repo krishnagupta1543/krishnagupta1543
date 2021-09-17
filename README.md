@@ -32,6 +32,8 @@
                               
 <img src="./1_IRFhWNqusUWbTsB1hQXhrQ.gif" alt="coder-boy" width="40%" height="40%" align="right">
 </br>
+<i>About me</i>
+</br>
 - I’m Krishna Gupta</br> 
 - I'm pursuing my Bachelors in Information Technology.</br>
 - 🌱 I’m currently learning Data structures and algorithums using java.</br>
@@ -40,6 +42,7 @@
 - Hobbies: Guitar playing, Book reading</br>
 -According to me the best way to learn anything is to learn first and then teach others.</br>
 <b> How to Reach me</b>
+</br>
 <!DOCTYPE html>
 <html>
    <head>
