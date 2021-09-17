@@ -5,22 +5,35 @@
                               
 </br>
 <h3><b>💻About me</b></h3>
-<h4>
+<p>
 - Tech Enthusiast with creative thinking  skills to solve problems.</br>
 - Inquisitive in nature and good communication skills.</br>
 - Pursuing  Bachelors in Information Technology.</br>
 - Hobbies: Guitar playing, Book reading</br>
--According to me the best way to learn anything is to learn first and then teach others.</br>
-</h4>
+- According to me the best way to learn anything is to learn first and then teach others.</br>
+</p>
 
 <hr>
 
 <h3>Skills</h3>
-<h4><ul>
-  <li>Python</li>
+<h4>Programming Languages</br></h4><ul>
+  <p>
   <li>Java</li>
-  </h4>
-
+  <li>Python</li>
+  <li> HTML</br> </li>
+  </ul>
+  </p>
+  <h4>🛠Tools</br><ul>
+  <li>
+    VS Code
+  </li>
+  <li>
+    Intellij Idea
+  </li>
+  <li>
+    Git
+  </li>
+  </ul>
 <hr>
   
 <h3> Connect With Me </h3>
