@@ -15,10 +15,8 @@
 </h4>
 <hr>
 <h3>Skills</hr></h3>
-  <h4>
 </br>
 <p>Programming Languages - Java, Python, HTML</br>Tools - Vs Code, IntellijIdea
-</h4>
 <hr>
 <b> Connect With Me </b>
 </br>
