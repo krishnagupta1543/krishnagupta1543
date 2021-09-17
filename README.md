@@ -41,9 +41,7 @@ Hola Guys 👋
       </a>
    </body>
 </html>
-</br>
 <p><b> My Coding Profiles </b></p>
-</br>
 <!DOCTYPE html>
 <html>
    <head>
