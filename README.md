@@ -57,7 +57,7 @@
       <br>
       <a href="https://leetcode.com/kg18960/">
          <img alt="LeetCode" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
-         width=80" height="80">
+         width=90" height="90">
       </a>
    </body>
 </html>
@@ -70,7 +70,7 @@
       <br>
       <a href="https://www.hackerrank.com/kg18960">
          <img alt="Hacker Rank" src="https://3.bp.blogspot.com/-k0B7v3UzmI4/WjAb0cPFiPI/AAAAAAAAGcU/NTaIBhxB6wAYZv3K2PQkq1sp5DhSbLYlQCLcBGAs/s1600/HackerRank1.png"
-         width=80" height="80">
+         width=90" height="90">
       </a>
    </body>
 </html>
