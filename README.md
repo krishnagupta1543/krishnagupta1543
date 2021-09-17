@@ -14,7 +14,7 @@
 -According to me the best way to learn anything is to learn first and then teach others.</br>
 </h4>
 <hr>
-<h3>Skills</hr></h3>
+<h3>Skills</h3>
 </br>
 <h4>Programming Languages - Java, Python, HTML</br>Tools - Vs Code, IntellijIdea.</h4>
 <hr>
