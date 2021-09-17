@@ -1,5 +1,5 @@
 
-## Hola Guys 👋
+Hola Guys 👋
 
 
 
@@ -33,12 +33,9 @@
 <img src="./1_IRFhWNqusUWbTsB1hQXhrQ.gif" alt="coder-boy" width="40%" height="40%" align="right">
 </br>
 <i>💻About me</i>
-</br>
-- I’m Krishna Gupta</br> 
-- I'm pursuing my Bachelors in Information Technology.</br>
-- 🌱 I’m currently learning Data structures and algorithums using java.</br>
-- Programming Languages - Java, Python </br>
-- Basic knowledge of Git and Github.</br>
+Tech Enthusiast with creative thinking  skills to solve problems , Inquisitive in nature and good communication skills
+</br> 
+- Pursuing  Bachelors in Information Technology.</br>
 - Hobbies: Guitar playing, Book reading</br>
 -According to me the best way to learn anything is to learn first and then teach others.</br>
 <b> How to Reach me</b>
