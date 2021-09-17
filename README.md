@@ -12,13 +12,13 @@
 - Pursuing  Bachelors in Information Technology.</br>
 - Hobbies: Guitar playing, Book reading</br>
 -According to me the best way to learn anything is to learn first and then teach others.</br>
-<h4>
+</h4>
 <hr>
 <h3><b> Skills</b></hr>
   <h4>
 </br>
 <p>Programming Languages - Java, Python, HTML</br>Tools - Vs Code, IntellijIdea
-<h4>
+</h4>
 <hr>
 <b> Connect With Me </b>
 </br>
