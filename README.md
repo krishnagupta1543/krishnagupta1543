@@ -41,7 +41,7 @@
    </head>
    <body>
       <br>
-      <a href="https://twitter.com/Krishna40746542">
+      <a href="https://twitter.com/Krishna40746542" target = "_blank>
          <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"
          width=150" height="35">
         </br>
@@ -56,7 +56,7 @@
    </head>
    <body>
       <br>
-      <a href="https://leetcode.com/kg18960/">
+      <a href="https://leetcode.com/kg18960/" target = "_blank>
          <img alt="LeetCode" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
          width=90" height="90">
       </a>
