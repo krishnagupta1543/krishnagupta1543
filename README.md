@@ -12,16 +12,18 @@
 - Hobbies: Guitar playing, Book reading</br>
 -According to me the best way to learn anything is to learn first and then teach others.</br>
 </h4>
+
 <hr>
-<p>
+
 <h3>Skills</h3>
 </br>
 <h4><ul>
   <li>Python</li>
   <li>Java</li>
   </h4>
-</p>
+
 <hr>
+  
 <h3> Connect With Me </h3>
 </br>
 <!DOCTYPE html>
