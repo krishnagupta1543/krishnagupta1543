@@ -12,6 +12,8 @@ Hola Guys 👋
 - Pursuing  Bachelors in Information Technology.</br>
 - Hobbies: Guitar playing, Book reading</br>
 -According to me the best way to learn anything is to learn first and then teach others.</br>
+<b> Skills</b></br>
+<p>Programming Languages - Java, Python, HTML</br>Tools - Vs Code, IntellijIdea
 </br>
 <b> Connect With Me </b>
 </br>
