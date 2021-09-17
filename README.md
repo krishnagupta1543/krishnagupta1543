@@ -42,6 +42,7 @@ Tech Enthusiast with creative thinking  skills to solve problems , Inquisitive i
 <b> How to Reach me</b>
 </br>
 <b> Connect With Me </b>
+</br>
 <!DOCTYPE html>
 <html>
    <head>
