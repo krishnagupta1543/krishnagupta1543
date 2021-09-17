@@ -32,8 +32,8 @@ Hola Guys 👋
                               
 <img src="./1_IRFhWNqusUWbTsB1hQXhrQ.gif" alt="coder-boy" width="40%" height="40%" align="right">
 </br>
-<b><i>💻About me</i></b>
-</br>
+<b>💻About me</b>
+<br>
 Tech Enthusiast with creative thinking  skills to solve problems , Inquisitive in nature and good communication skills
 </br> 
 - Pursuing  Bachelors in Information Technology.</br>
