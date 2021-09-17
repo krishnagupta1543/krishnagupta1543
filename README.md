@@ -75,4 +75,4 @@
       </a>
    </body>
 </html>
- <img src= "‪programming.gif" alt="coder-boy" width="40%" height="40%" align="right">
+ <img src= "‪https://github.com/krishnagupta1543/krishnagupta1543/blob/9891fdb158fc0a294e8381ff171509f3e043a99d/programming.gif" alt="coder-boy" width="40%" height="40%" align="right">
