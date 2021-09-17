@@ -3,7 +3,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=krishnagupta1543&show_icons=true&theme=tokyonight" align='right' width="55%">
                               
-  <img src= "‪https://github.com/krishnagupta1543/krishnagupta1543/blob/e2186734310733e8b126ffb192c52bbb858b84ac/programming.gif" alt="programming" width="40%" height="40%" align="right">
+  <img src= "‪programming.gif" alt="programming" width="40%" height="40%" align="right">
 </br>
 <h3><b>💻About me</b></h3>
 <h4>
