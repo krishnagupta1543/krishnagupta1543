@@ -7,11 +7,13 @@
 </br>
 <h3><b>💻About me</b></h3>
 <br>
+<h4>
 - Tech Enthusiast with creative thinking  skills to solve problems.</br>
 - Inquisitive in nature and good communication skills.</br>
 - Pursuing  Bachelors in Information Technology.</br>
 - Hobbies: Guitar playing, Book reading</br>
 -According to me the best way to learn anything is to learn first and then teach others.</br>
+<h4>
 <hr>
 <h3><b> Skills</b></hr>
 </br>
