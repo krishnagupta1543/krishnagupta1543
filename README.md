@@ -23,7 +23,9 @@
   <li> HTML</br> </li>
   </ul>
   </p>
-  <h4>🛠Tools</br><ul>
+  <h4>🛠Tools</br></h4>
+  <p>
+  <ul>
   <li>
     VS Code
   </li>
@@ -34,6 +36,7 @@
     Git
   </li>
   </ul>
+  </p>
 <hr>
   
 <h3> Connect With Me </h3>
