@@ -2,32 +2,7 @@
 ## Hola Guys 👋
 
 
-<!DOCTYPE html>
-<html>
-   <head>
-   </head>
-   <body>
-      <br>
-      <a href= "https://www.linkedin.com/in/krishna-gupta-b4327920a/">
-         <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
-         width=150" height="35">
-      </a>
-   </body>
-</html>
 
-
-<!DOCTYPE html>
-<html>
-   <head>
-   </head>
-   <body>
-      <br>
-      <a href="https://twitter.com/Krishna40746542">
-         <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"
-         width=150" height="35">
-      </a>
-   </body>
-</html>
 <!DOCTYPE html>
 <html>
    <head>
@@ -64,5 +39,30 @@
 - Basic knowledge of Git and Github.</br>
 - Hobbies: Guitar playing, Book reading</br>
 -According to me the best way to learn anything is to learn first and then teach others.</br>
-Thank you
+<b> How to Reach me</b>
+<!DOCTYPE html>
+<html>
+   <head>
+   </head>
+   <body>
+      <br>
+      <a href= "https://www.linkedin.com/in/krishna-gupta-b4327920a/">
+         <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
+         width=150" height="35">
+      </a>
+   </body>
+</html>
 
+
+<!DOCTYPE html>
+<html>
+   <head>
+   </head>
+   <body>
+      <br>
+      <a href="https://twitter.com/Krishna40746542">
+         <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"
+         width=150" height="35">
+      </a>
+   </body>
+</html>
