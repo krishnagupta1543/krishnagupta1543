@@ -27,7 +27,7 @@
    </head>
    <body>
       <br>
-      <a href= "https://www.linkedin.com/in/krishna-gupta-b4327920a/" target = "_blank">
+      <a href= "https://www.linkedin.com/in/krishna-gupta-b4327920a/">
          <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
          width=150" height="35">
       </a>
@@ -41,7 +41,7 @@
    </head>
    <body>
       <br>
-      <a href="https://twitter.com/Krishna40746542" target = "_blank>
+      <a href="https://twitter.com/Krishna40746542" >
          <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"
          width=150" height="35">
         </br>
@@ -56,7 +56,7 @@
    </head>
    <body>
       <br>
-      <a href="https://leetcode.com/kg18960/" target = "_blank>
+      <a href="https://leetcode.com/kg18960/" >
          <img alt="LeetCode" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
          width=90" height="90">
       </a>
