@@ -40,7 +40,7 @@
 <hr>
   
 <h3> Connect With Me </h3>
-</br>
+
 <!DOCTYPE html>
 <html>
    <head>
