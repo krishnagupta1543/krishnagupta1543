@@ -16,7 +16,6 @@
 <hr>
 
 <h3>Skills</h3>
-</br>
 <h4><ul>
   <li>Python</li>
   <li>Java</li>
