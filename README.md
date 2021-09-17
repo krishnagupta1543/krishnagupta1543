@@ -1,5 +1,5 @@
 
-Hola Guys 👋
+<h2>Hola Guys 👋</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=krishnagupta1543&show_icons=true&theme=tokyonight" align='right' width="55%">
                               
