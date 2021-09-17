@@ -48,7 +48,7 @@
    </body>
 </html>
 <hr>
-<p><b> My Coding Profiles </b></p>
+<h4> My Coding Profiles </h4>
 <!DOCTYPE html>
 <html>
    <head>
