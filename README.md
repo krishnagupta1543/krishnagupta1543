@@ -36,7 +36,7 @@
    <body>
       <br>
       <a href="https://www.hackerrank.com/kg18960">
-         <img alt="Hacker Rank" src="C:\Users\dell\Downloads\hackerrank.png"
+         <img alt="Hacker Rank" src="https://3.bp.blogspot.com/-k0B7v3UzmI4/WjAb0cPFiPI/AAAAAAAAGcU/NTaIBhxB6wAYZv3K2PQkq1sp5DhSbLYlQCLcBGAs/s1600/HackerRank1.png"
          width=80" height="80">
       </a>
    </body>
