@@ -34,7 +34,8 @@ Hola Guys 👋
 </br>
 <b>💻About me</b>
 <br>
-Tech Enthusiast with creative thinking  skills to solve problems , Inquisitive in nature and good communication skills
+- Tech Enthusiast with creative thinking  skills to solve problems.
+- Inquisitive in nature and good communication skills
 - Pursuing  Bachelors in Information Technology.</br>
 - Hobbies: Guitar playing, Book reading</br>
 -According to me the best way to learn anything is to learn first and then teach others.</br>
