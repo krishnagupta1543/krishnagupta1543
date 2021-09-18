@@ -1,7 +1,8 @@
 
 <h1>Hola Guys 👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnagupta1543" alt="krishnagupta1543" /> </p>
-<img src="https://github-readme-stats.vercel.app/api?username=krishnagupta1543&show_icons=true&theme=tokyonight" align='right' width="55%">
+
+<img src="programming.gif" alt="coder-boy" width="40%" height="40%" align="right">
                               
 </br>
 <h3><b>💻About me</b></h3>
@@ -14,8 +15,7 @@
 </p>
 
 <hr>
-<img src="programming.gif" alt="coder-boy" width="40%" height="40%" align="right">
-
+<img src="https://github-readme-stats.vercel.app/api?username=krishnagupta1543&show_icons=true&theme=tokyonight" align='right' width="55%">
 <h3>Skills</h3>
 <h4>Programming Languages</br></h4><ul>
   <p>
