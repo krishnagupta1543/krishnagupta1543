@@ -89,7 +89,7 @@
    </head>
    <body>
       <br>
-      <a href="https://www.hackerrank.com/kg18960" target = "_Blank">
+      <a href="https://www.hackerrank.com/kg18960" target = "_blank">
          <img alt="Hacker Rank" src="https://3.bp.blogspot.com/-k0B7v3UzmI4/WjAb0cPFiPI/AAAAAAAAGcU/NTaIBhxB6wAYZv3K2PQkq1sp5DhSbLYlQCLcBGAs/s1600/HackerRank1.png"
          width=90" height="90">
       </a>
