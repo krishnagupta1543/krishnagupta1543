@@ -47,7 +47,7 @@
    </head>
    <body>
       <br>
-      <a href= "https://www.linkedin.com/in/krishna-gupta-b4327920a/">
+      <a href= "https://www.linkedin.com/in/krishna-gupta-b4327920a/" target = "_blank">
          <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
          width=150" height="35">
       </a>
