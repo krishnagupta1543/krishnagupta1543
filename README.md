@@ -2,7 +2,7 @@
 <h1>Hola Guys 👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnagupta1543" alt="krishnagupta1543" /> </p>
 
-<img src="programming.gif" alt="coder-boy" width="30%" height="30%" align="right">
+<img src="programming.gif" alt="coder-boy" width="50%" height="50%" align="right">
                               
 </br>
 <h3><b>💻About me</b></h3>
