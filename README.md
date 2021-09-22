@@ -2,8 +2,8 @@
 <h1>Hola Guys 👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnagupta1543" alt="krishnagupta1543" /> </p>
 
-<img src="new.gif" alt="coder-boy" width="20%" align="right">
-                              
+<img src="new.gif" alt="coder-boy" width="30%" align="right">
+                             
 </br>
 <h3><b>💻About me</b></h3>
 <p>
