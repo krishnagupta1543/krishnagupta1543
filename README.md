@@ -1,7 +1,9 @@
 
-<h1>Hola Guys 👋</h1>
+<h1>Hello friends👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnagupta1543" alt="krishnagupta1543" /> </p>
 
+  <img src="github1.gif" alt="git-boy" width="20%" class = "center"><img src="github2.gif" alt="git-boy" width="20%" text-align="center">
+<hr>
 <img src="new.gif" alt="coder-boy" width="20%" align="right">
                              
 </br>
@@ -76,8 +78,7 @@
    </head>
    <body>
       <br>
-      <a href="https://leetcode.com/kg18960/" >
-         <img alt="LeetCode" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
+      <a href="https://leetcode.com/kg18960/" > <img alt="LeetCode" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
          width=90" height="90">
       </a>
    </body>
