@@ -1,4 +1,3 @@
-
 <h1>Hello friends👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnagupta1543" alt="krishnagupta1543" /> </p>
 
@@ -15,7 +14,7 @@
 - Hobbies: Guitar playing, Book reading</br>
 - According to me the best way to learn anything is to learn first and then teach others.</br>
 </p>
-
+ 
 <hr>
 <img src="https://github-readme-stats.vercel.app/api?username=krishnagupta1543&show_icons=true&theme=tokyonight" align='right' width="55%">
 <h3>Skills</h3>
@@ -39,6 +38,13 @@
   </li>
   </ul>
   </p>
+   
+  [![krishna's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=krishnagupta1543&theme=xcode)](https://git.io/krishnagupta1543)
+  
+  
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnagupta1543&layout=compact&text_color=daf7dc&bg_color=151515)
+  
 <hr>
   
 <h3> Connect With Me </h3>
@@ -72,27 +78,17 @@
 </html>
 <hr>
 <h3> My Coding Profiles </h3>
-<!DOCTYPE html>
-<html>
-   <head>
-   </head>
-   <body>
-      <br>
+      
+      
+  <br>
       <a href="https://leetcode.com/kg18960/" > <img alt="LeetCode" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
          width=90" height="90">
       </a>
-   </body>
-</html>
+   
 
-<!DOCTYPE html>
-<html>
-   <head>
-   </head>
-   <body>
-      <br>
-      <a href="https://www.hackerrank.com/kg18960">
-         <img alt="Hacker Rank" src="https://3.bp.blogspot.com/-k0B7v3UzmI4/WjAb0cPFiPI/AAAAAAAAGcU/NTaIBhxB6wAYZv3K2PQkq1sp5DhSbLYlQCLcBGAs/s1600/HackerRank1.png"
-         width=90" height="90">
-      </a>
-   </body>
-</html>
+<br>
+    <a href="https://www.hackerrank.com/kg18960">
+        <img alt="Hacker Rank" src="https://3.bp.blogspot.com/-k0B7v3UzmI4/WjAb0cPFiPI/AAAAAAAAGcU/NTaIBhxB6wAYZv3K2PQkq1sp5DhSbLYlQCLcBGAs/s1600/HackerRank1.png"
+        width=90" height="90"></a>
+        </br>
+     
