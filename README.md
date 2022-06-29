@@ -1,12 +1,12 @@
-<center > <h1>Hi I'm Krishna👋</h1> <center>
+  <h1 align = "center">Hi 👋 I'm Krishna </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnagupta1543" alt="krishnagupta1543" /> </p>
 
-  <img src="github1.gif" alt="git-boy" width="20%" class = "center"><img src="github2.gif" alt="git-boy" width="20%" text-align="center">
+  <img src="github1.gif" alt="git-boy" width="20%" class = "left" align = "right"><img src="github2.gif" alt="git-boy" width="20%" text-align="left">
 <hr>
 <img src="new.gif" alt="coder-boy" width="20%" align="right">
                              
 </br>
-<h3><b>💻About me</b></h3>
+<i><h2><b>💻About me</b></h2></i>
 <p>
 - Tech Enthusiast with creative thinking  skills to solve problems.</br>
 - Inquisitive in nature and good communication skills.</br>
@@ -17,14 +17,14 @@
  
 <hr>
 <img src="https://github-readme-stats.vercel.app/api?username=krishnagupta1543&show_icons=true&theme=tokyonight" align='right' width="55%">
-<h3>Skills</h3>
-<h4>Programming Languages</br></h4><ul>
+<i><h2>Skills</h2></i>
+<h3>Programming Languages</br></h3><ul>
   <p>
   <li>Java</li>
   <li>Python</li>
   </ul>
   </p>
-  <h4>🛠Tools</br></h4>
+  <h3>🛠Tools</br></h3>
   <p>
   <ul>
   <li>
@@ -43,7 +43,7 @@
   
 <hr>
   
-<h3> Connect With Me </h3>
+<i> <h2> Connect With Me </h2> </i>
 
 <!DOCTYPE html>
 <html>
