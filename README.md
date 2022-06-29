@@ -39,10 +39,6 @@
   </ul>
   </p>
    
-  [![krishna's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=krishnagupta1543&theme=xcode)](https://git.io/krishnagupta1543)
-  
-  
-  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnagupta1543&layout=compact&text_color=daf7dc&bg_color=151515)
   
 <hr>
