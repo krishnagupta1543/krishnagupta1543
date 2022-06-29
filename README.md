@@ -1,4 +1,4 @@
-<h1>Hello friends👋</h1>
+<center > <h1>Hi I'm Krishna👋</h1> <center>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnagupta1543" alt="krishnagupta1543" /> </p>
 
   <img src="github1.gif" alt="git-boy" width="20%" class = "center"><img src="github2.gif" alt="git-boy" width="20%" text-align="center">
