@@ -7,7 +7,7 @@
                              
 </br>
 <i><h2><b>💻About me</b></h2></i>
-<p>
+<p style = "font-size: 12px">
 - Tech Enthusiast with creative thinking  skills to solve problems.</br>
 - Inquisitive in nature and good communication skills.</br>
 - Pursuing  Bachelors in Information Technology.</br>
