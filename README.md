@@ -1,12 +1,6 @@
-  <h1 align = "center">Hi 👋 I'm Krishna </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnagupta1543" alt="krishnagupta1543" /> </p>
-
-  <img src="github1.gif" alt="git-boy" width="20%" class = "left" align = "right"><img src="github2.gif" alt="git-boy" width="20%" text-align="left">
-<hr>
-<img src="new.gif" alt="coder-boy" width="20%" align="right">
-                             
-</br>
-<i><h2><b>💻About me</b></h2></i>
+  <h1 align = "center"><img src = "github1.gif" align = "right" width = "10%">Hi 👋 My Name is Krishna <img src = "github2.gif" align = "left" width = "10%"></h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnagupta1543" alt="krishnagupta1543" /> </p>                    
+<h2><b>About me💻</b></h2>
 <p style = "font-size: 12px">
 - Tech Enthusiast with creative thinking  skills to solve problems.</br>
 - Inquisitive in nature and good communication skills.</br>
@@ -14,63 +8,15 @@
 - Hobbies: Guitar playing, Book reading</br>
 - According to me the best way to learn anything is to learn first and then teach others.</br>
 </p>
- 
-<hr>
-<img src="https://github-readme-stats.vercel.app/api?username=krishnagupta1543&show_icons=true&theme=tokyonight" align='right' width="55%">
-<i><h2>Skills</h2></i>
-<h3>Programming Languages</br></h3><ul>
-  <p>
-  <li>Java</li>
-  <li>Python</li>
-  </ul>
-  </p>
-  <h3>🛠Tools</br></h3>
-  <p>
-  <ul>
-  <li>
-    VS Code
-  </li>
-  <li>
-    Intellij Idea
-  </li>
-  <li>
-    Git
-  </li>
-  </ul>
-  </p>
-   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnagupta1543&layout=compact&text_color=daf7dc&bg_color=151515)
-  
-<hr>
-  
-<i> <h2> Connect With Me </h2> </i>
+<img src="https://github-readme-stats.vercel.app/api?username=krishnagupta1543&show_icons=true&theme=tokyonight" align="right" width="35%">
 
-<!DOCTYPE html>
-<html>
-   <head>
-   </head>
-   <body>
-      <br>
-      <a href= "https://www.linkedin.com/in/krishna-gupta-b4327920a/" target = "_blank">
-         <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
-         width=150" height="35">
-      </a>
-   </body>
-</html>
-
-
-<!DOCTYPE html>
-<html>
-   <head>
-   </head>
-   <body>
-      <br>
-      <a href="https://twitter.com/Krishna40746542" >
-         <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"
-         width=150" height="35">
-        </br>
-      </a>
-   </body>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+ <h2> Connect With Me :</h2>
+ <p align="left">
+<a href="tter.com/Krishna40746542" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhavya_58" height="40" width="40"/></a>
+<a href="https://www.linkedin.com/in/krishna-gupta-b4327920a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhavya-sachdeva9/" height="40" width="40" /></a>
+</p>
 </html>
 
 
